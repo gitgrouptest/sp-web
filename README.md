@@ -3,7 +3,7 @@
 
 ---
 
-##ƒƒ“ƒo[
-taku(“VË)
+##member
+taku(Git Hub Studing)
 
 
